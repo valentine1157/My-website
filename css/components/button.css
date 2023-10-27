@@ -1,0 +1,28 @@
+.button-1{
+	background-color: rgb(255, 122, 0);
+	border-radius: 10px;
+	color: white;
+	padding: 25px 100px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.button-1:hover{
+	background: white;
+	color: rgb(255, 122, 0);
+}
+
+.button-2{
+	font-size: 25px;
+	background-color: rgb(255, 122, 0);
+	padding: 25px 50px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.button-2:hover{
+	background: white;
+	color: rgb(255, 122, 0);
+}
